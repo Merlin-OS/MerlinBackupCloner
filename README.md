@@ -16,6 +16,7 @@ Merlin Backup Cloner sauvegarde, copie, clone et restaure vos données sur Mac. 
 - **Copie et clonage** : copie de dossiers ou clonage d'un disque entier, avec une comparaison avant de lancer. Les fichiers remplacés sont mis de côté, jamais supprimés.
 - **Restauration** : parcourez une version, cherchez un fichier, retrouvez ses anciennes versions et restaurez-le sans rien écraser.
 - **Automatique** : chaque jour, chaque semaine, chaque mois, ou dès que vous branchez le disque. Une sauvegarde manquée est rattrapée au réveil du Mac.
+- **Toujours à jour** : quand une nouvelle version sort, Merlin vous prévient et l'installe en un clic.
 - **Gratuit** : toutes les fonctions, sans abonnement, sans version payante, sans limite.
 
 ## Aperçu
@@ -52,7 +53,8 @@ Merlin Backup Cloner sauvegarde, copie, clone et restaure vos données sur Mac. 
 - **Rien n'est supprimé sans votre accord** : la source n'est jamais modifiée, aucun disque n'est formaté, et les fichiers remplacés ou retirés sont conservés dans un filet de sécurité.
 - **Chaque copie est vérifiée** par une empreinte SHA-256, et l'intégrité d'une sauvegarde peut être revérifiée à tout moment.
 - **Chiffrement AES-256** en option, mot de passe rangé dans le trousseau macOS, clé de récupération exportable.
-- **Aucune télémétrie** : pas de compte, pas de statistiques, aucune connexion réseau. Tout reste sur votre Mac.
+- **Aucune télémétrie** : pas de compte, pas de statistiques. La seule connexion est la recherche anonyme de mises à jour sur GitHub, que vous pouvez désactiver. Tout le reste reste sur votre Mac.
+- **Mises à jour vérifiées** : une mise à jour n'est installée que si son empreinte SHA-256 correspond à celle publiée, et jamais pendant une sauvegarde.
 
 ## Limites connues
 
@@ -62,4 +64,4 @@ Merlin Backup Cloner sauvegarde, copie, clone et restaure vos données sur Mac. 
 
 ## Version de test
 
-Merlin Backup Cloner 1.0.0 est une première version. Testez-la d'abord sur un disque sans importance. Un bug, une idée ? Ouvrez une [Issue](https://github.com/Merlin-OS/MerlinBackupCloner/issues).
+Merlin Backup Cloner 1.0 est une première version. Testez-la d'abord sur un disque sans importance. Un bug, une idée ? Ouvrez une [Issue](https://github.com/Merlin-OS/MerlinBackupCloner/issues).
