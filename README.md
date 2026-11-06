@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Merlin-OS/MerlinBackupCloner/releases/latest/download/Merlin-Backup-Cloner.dmg"><b>⬇ Télécharger pour Mac</b></a>
+  <a href="https://github.com/Merlin-OS/MerlinBackupCloner/raw/main/Merlin-Backup-Cloner-1.0.0.dmg"><b>⬇ Télécharger pour Mac</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Merlin-OS/MerlinBackupCloner/releases">Toutes les versions</a>
 </p>
@@ -43,7 +43,7 @@ Merlin Backup Cloner sauvegarde, copie, clone et restaure vos données sur Mac. 
 
 ### Mac (macOS 13 Ventura ou plus récent, Intel et puce Apple)
 
-1. Téléchargez [`Merlin-Backup-Cloner.dmg`](https://github.com/Merlin-OS/MerlinBackupCloner/releases/latest/download/Merlin-Backup-Cloner.dmg), ouvrez-le et glissez **Merlin Backup Cloner** dans **Applications**.
+1. Téléchargez [`Merlin-Backup-Cloner-1.0.0.dmg`](https://github.com/Merlin-OS/MerlinBackupCloner/raw/main/Merlin-Backup-Cloner-1.0.0.dmg), ouvrez-le et glissez **Merlin Backup Cloner** dans **Applications**.
 2. Au premier lancement, macOS bloque l'app, parce qu'elle n'est pas encore validée par Apple : ouvrez **Réglages Système › Confidentialité et sécurité**, descendez et cliquez sur **Ouvrir quand même**.
 3. Pour que Merlin puisse sauvegarder tous vos fichiers (Mail, Messages, Safari…), autorisez-le dans **Réglages Système › Confidentialité et sécurité › Accès complet au disque**. Merlin vous y conduit directement.
 
